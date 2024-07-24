@@ -78,17 +78,14 @@ class Data_Processor:
         
         if sentiment_data is None or sent_data is None:
             return None
-        
-        # Count occurrences of each sentiment label
-        sentiment_counts = Counter(sentiment_data)
 
-        # Initialize lists for dataframe creation
+        sentiment_counts = Counter(sentiment_data)
+        
         text_column = sent_data
         negative_column = [1 if label == 0 else 0 for label in sentiment_data]
         neutral_column = [1 if label == 1 else 0 for label in sentiment_data]
         positive_column = [1 if label == 2 else 0 for label in sentiment_data]
-
-        # Create DataFrame
+  
         df = pd.DataFrame({
             'Text': text_column,
             'Negative': negative_column,
