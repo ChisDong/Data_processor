@@ -1,0 +1,35 @@
+gv -> giáo viên
+hs -> học sinh
+kt -> kiểm tra
+tb -> trung bình
+dt -> điểm
+cd -> chuẩn đào tạo
+tt -> tình trạng
+kq -> kết quả
+nd -> nội dung
+nc -> nghiên cứu
+gvht -> giáo viên hướng dẫn
+csgd -> cơ sở giáo dục
+nn -> nội ngữ
+sgk -> sách giáo khoa
+tn -> trung học
+th -> tiểu học
+tc -> tài chính
+cdt -> chương trình đào tạo
+dk -> đăng ký
+pt -> phương pháp
+dh -> đại học
+cc -> cán bộ
+ld -> lãnh đạo
+ng -> người
+bai -> bài
+ck -> chứng chỉ
+ktcl -> kiểm tra chất lượng
+dtbc -> điểm bài kiểm tra
+dl -> dữ liệu
+xt -> xếp loại
+tnc -> thực nghiệm
+dht -> đánh giá học tập
+thpt -> trung học phổ thông
+td -> tổng kết
+mn -> mầm non
